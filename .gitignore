@@ -36,3 +36,5 @@ out/
 ### VS Code ###
 .vscode/
 .serena
+docs/res.md
+application-secret.yaml
