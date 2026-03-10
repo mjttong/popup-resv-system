@@ -1,0 +1,7 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: create
+
+reservation:
+  queue-limit-multiplier: 3
